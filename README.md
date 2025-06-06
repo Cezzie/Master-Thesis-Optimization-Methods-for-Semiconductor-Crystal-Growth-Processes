@@ -35,7 +35,7 @@ python -m ipykernel install --user --name crystal-growth-env --display-name "Pyt
 
 ## Usage Notes
 
-* The **notebook `Heat and Stress Solver.ipynb`** is easy to use and can be run independently. It provides a good entry point for exploring the simulation components.
+* The **notebook `0. Heat and Stress Solver.ipynb`** is easy to use and can be run independently. It provides a good entry point for exploring the simulation components.
 
 * For the **training and optimization scripts**, make sure:
 
