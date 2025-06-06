@@ -1,6 +1,8 @@
 # Optimization Methods for Semiconductor Crystal Growth Processes
 
-This repository contains code and resources related to a Master’s thesis on the optimization of semiconductor crystal growth using numerical simulations and machine learning techniques.
+This repository contains code and resources related to my Master’s thesis on the optimization of semiconductor crystal growth using numerical simulations and machine learning techniques.
+
+By J.V.J. Schardijn
 
 ## License
 
