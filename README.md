@@ -45,3 +45,5 @@ python -m ipykernel install --user --name crystal-growth-env --display-name "Pyt
     wandb login
     ```
   * 📁 Ensure that the `trajectories/` folder exists and is properly populated, as the scripts depend on input data
+ 
+  * These scripts specifically are Finite Element Methods for the physical modeling and U-Nets for the deterministic surrogate model
